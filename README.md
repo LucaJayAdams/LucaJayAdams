@@ -3,7 +3,7 @@ Hi, I'm Luca
 </h1> 
 
 # 💫 About Me:
-⚙️ I build robust, efficient, and scalable applications<br><br>💻 Passionate about coding and continuous learning<br><br>📚 Currently learning: Python, Java, react/tailwind (front-end), and Node.js (back-end) to broaden my overall knowledge and skills<br><br>📧 Reach me anytime at LucaJayAdams@outlook.com<br><br> 💼 Connect with me on LinkedIn : www.linkedin.com/in/LucaAdams<br><br>🚀 Eager to start new projects and integrate them with this new Git moving forward
+⚙️ I build robust, efficient, and scalable applications<br><br>💻 Passionate about coding and always willing to learn<br><br>📚 Currently learning: Python, Java, react/tailwind (front-end), and Node.js (back-end) to broaden my overall knowledge and skills<br><br>📧 Reach me anytime at LucaJayAdams@outlook.com<br><br> 💼 Connect with me on LinkedIn : www.linkedin.com/in/LucaAdams<br><br>🚀 Eager to start new projects and integrate them with this new Git moving forward
 
 
 # 💻 Tech Stack:
